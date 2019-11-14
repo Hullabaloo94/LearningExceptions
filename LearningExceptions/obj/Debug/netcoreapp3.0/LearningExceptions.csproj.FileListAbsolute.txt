@@ -1,0 +1,11 @@
+C:\Users\Jason\source\repos\LearningExceptions\LearningExceptions\bin\Debug\netcoreapp3.0\LearningExceptions.exe
+C:\Users\Jason\source\repos\LearningExceptions\LearningExceptions\bin\Debug\netcoreapp3.0\LearningExceptions.deps.json
+C:\Users\Jason\source\repos\LearningExceptions\LearningExceptions\bin\Debug\netcoreapp3.0\LearningExceptions.runtimeconfig.json
+C:\Users\Jason\source\repos\LearningExceptions\LearningExceptions\bin\Debug\netcoreapp3.0\LearningExceptions.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\LearningExceptions\LearningExceptions\bin\Debug\netcoreapp3.0\LearningExceptions.dll
+C:\Users\Jason\source\repos\LearningExceptions\LearningExceptions\bin\Debug\netcoreapp3.0\LearningExceptions.pdb
+C:\Users\Jason\source\repos\LearningExceptions\LearningExceptions\obj\Debug\netcoreapp3.0\LearningExceptions.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\LearningExceptions\LearningExceptions\obj\Debug\netcoreapp3.0\LearningExceptions.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\LearningExceptions\LearningExceptions\obj\Debug\netcoreapp3.0\LearningExceptions.AssemblyInfo.cs
+C:\Users\Jason\source\repos\LearningExceptions\LearningExceptions\obj\Debug\netcoreapp3.0\LearningExceptions.dll
+C:\Users\Jason\source\repos\LearningExceptions\LearningExceptions\obj\Debug\netcoreapp3.0\LearningExceptions.pdb
